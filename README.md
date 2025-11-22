@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<!-- Banner -->
+<img src="https://raw.githubusercontent.com/harshakanduri/harshakanduri/main/assets/banner.png" width="100%">
 <img src="https://github.com/harshakanduri/harshakanduri/blob/main/assets/banner.png" alt="banner">
 
 <h1 align="center">👋 Hi, I'm <b>Kanduri Harshavardhan</b></h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS | Terraform | Jenkins | CI/CD</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS | Terraform | Jenkins | CI/CD | Docker | Kubernetes(K8s)</h3>
 
 <p align="center">
   <a href="https://github.com/harshakanduri"><img src="https://img.shields.io/github/followers/harshakanduri?label=Followers&style=flat-square" alt="GitHub Followers"/></a>
@@ -49,7 +49,7 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 ### 💻 Programming  
 <p align="left">
   <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/ios-filled/48/bash.png" alt="Bash"/>
+  
 </p>
 
 ---

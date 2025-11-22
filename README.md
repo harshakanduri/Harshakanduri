@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/harshakanduri/harshakanduri/main/assets/banner.png" width="100%">
+<img width="1300" height="357" alt="banner image" src="https://github.com/user-attachments/assets/46ec7321-8446-49ad-b56a-ae896e3ee5d3" />
+
 <img src="https://github.com/harshakanduri/harshakanduri/blob/main/assets/banner.png" alt="banner">
 
 <h1 align="center">👋 Hi, I'm <b>Kanduri Harshavardhan</b></h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS | Terraform | Jenkins | CI/CD | Docker | Kubernetes(K8s)</h3>
+<h3 align="center">Open to Opportunities Cloud & DevOps Engineer En| AWS | Terraform | Jenkins | CI/CD | Docker | Kubernetes(K8s)</h3>
 
 <p align="center">
   <a href="https://github.com/harshakanduri"><img src="https://img.shields.io/github/followers/harshakanduri?label=Followers&style=flat-square" alt="GitHub Followers"/></a>
@@ -14,12 +15,12 @@
 ---
 
 ## 🚀 About Me  
-I am a Cloud & DevOps Engineer focused on AWS, CI/CD automation, Infrastructure as Code, and server deployments. I build end-to-end cloud solutions using Terraform, Jenkins, GitHub Actions, and AWS EC2.  
+I am a Cloud & DevOps engineer with hands-on practice in AWS, Jenkins, Terraform, Docker, and Kubernetes. I enjoy learning by building real projects and working with CI/CD pipelines, server deployments, and Infrastructure as Code. I focus on developing strong foundational skills to create reliable and automated cloud environments.
 I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# 🛠️ My skills in Tech Stack & Tools
 
 ### 🚀 Cloud  
 <p align="left">
@@ -38,6 +39,7 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 ### 🏗 Infrastructure as Code  
 <p align="left">
   <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform"/>
+  <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/>
 </p>
 
 ### 🐳 Containers  

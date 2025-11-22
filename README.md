@@ -1,11 +1,9 @@
-## Hi there 👋
+
 
 <img width="1300" height="357" alt="banner image" src="https://github.com/user-attachments/assets/46ec7321-8446-49ad-b56a-ae896e3ee5d3" />
 
-<img src="https://github.com/harshakanduri/harshakanduri/blob/main/assets/banner.png" alt="banner">
-
 <h1 align="center">👋 Hi, I'm <b>Kanduri Harshavardhan</b></h1>
-<h3 align="center">Open to Opportunities Cloud & DevOps Engineer En| AWS | Terraform | Jenkins | CI/CD | Docker | Kubernetes(K8s)</h3>
+<h3 align="center">Open to Opportunities Cloud & DevOps Engineer | AWS | Terraform | Jenkins | CI/CD | Docker | Kubernetes(K8s)</h3>
 
 <p align="center">
   <a href="https://github.com/harshakanduri"><img src="https://img.shields.io/github/followers/harshakanduri?label=Followers&style=flat-square" alt="GitHub Followers"/></a>
@@ -22,7 +20,7 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 # 🛠️ My skills in Tech Stack & Tools
 
-### 🚀 Cloud  
+### 🚀 Cloud   
 <p align="left">
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" />
 </p>

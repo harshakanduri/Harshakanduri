@@ -20,20 +20,46 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 # 💻 Tech Stack:
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🚀 Cloud  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
+</p>
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+---
 
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+### ⚙️ DevOps Tools  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
+  <img src="https://img.icons8.com/fluency/48/console.png" alt="Terminal"/>
+</p>
 
-![Bash](https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+---
+
+### 🏗 Infrastructure as Code  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform"/>
+  <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/>
+</p>
+
+---
+
+### 🐳 Containers  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/>
+</p>
+
+---
+
+### 💻 Programming  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+</p>
+
+
 ---
 
 # 📂 Featured Projects

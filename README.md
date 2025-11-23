@@ -2,10 +2,7 @@
 
 <img width="1300" height="357" alt="banner image" src="https://github.com/user-attachments/assets/46ec7321-8446-49ad-b56a-ae896e3ee5d3" />
 
-<p align="center">
-  <!-- Animated name GIF (local path — your system will convert it to a URL) -->
-  <img src="/mnt/data/A_GIF_features_&quot;Kanduri_Harshavardhan&quot;_displayed_i.png" alt="Kanduri Harshavardhan" style="max-width:100%; height:auto;">
-</p>
+<h1 align="center">👋 Hi, I'm <b>Kanduri Harshavardhan</b></h1>
 <h3 align="center">Open to Opportunities Cloud & DevOps Engineer | AWS | Terraform | Jenkins | CI/CD | Docker | Kubernetes(K8s)</h3>
 
 <p align="center">

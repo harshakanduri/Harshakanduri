@@ -57,8 +57,8 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 # 📂 Featured Projects
 
 ### 🔹 **Jenkins CI/CD Pipeline Deployment**  
-- Automated CI/CD pipeline on AWS EC2  
-- Pulls from GitHub → Builds using Maven → Deploys to EC2  
+- Automated CI/CD pipeline on Jenkins localhost  
+- Pulls from GitHub → Builds using Maven → Deploys to jenkins localhost  
 **Tech:** Jenkins, Maven, GitHub, AWS  
 🔗 Repo: https://github.com/harshakanduri/Jenkins-first-Job  
 
@@ -72,11 +72,11 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 ---
 
-### 🔹 **GitHub Actions CI/CD Workflows**  
-- Automated build workflows  
-- Artifact creation & deployment  
-**Tech:** GitHub Actions, Bash, AWS  
-
+### 🔹 **Serverless Web Application on AWS**  
+- This project showcases a fully serverless e-commerce web application 
+- The application supports full CRUD (Create, Read, Update, Delete) operations 
+**Tech:** AWS Lambda, DynamoDB, and S3.
+🔗 Repo: https://github.com/harshakanduri/My-first-AWS-serverless-E-commerce-web-Application
 ---
 
 # 📊 GitHub Stats  

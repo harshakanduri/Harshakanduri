@@ -20,76 +20,45 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 ## 💻 Tech Stack :
 
+---
+
 ### 🚀 Cloud  
-<p align="center">
-  <kbd>
-    <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/><br>
-    <span>AWS</span>
-  </kbd>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
 </p>
 
 ---
 
 ### ⚙️ DevOps Tools  
-<p align="center">
-  <kbd>
-    <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/><br>
-    <span>Jenkins</span>
-  </kbd>
-  <kbd>
-    <img src="https://img.icons8.com/color/48/git.png" alt="Git"/><br>
-    <span>Git</span>
-  </kbd>
-  <kbd>
-    <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/><br>
-    <span>GitHub</span>
-  </kbd>
-  <kbd>
-    <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/><br>
-    <span>Linux</span>
-  </kbd>
-  <kbd>
-    <img src="https://img.icons8.com/fluency/48/console.png" alt="Terminal"/><br>
-    <span>Bash / Shell</span>
-  </kbd>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
+  <img src="https://img.icons8.com/fluency/48/console.png" alt="Terminal"/>
 </p>
 
 ---
 
 ### 🏗 Infrastructure as Code  
-<p align="center">
-  <kbd>
-    <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform"/><br>
-    <span>Terraform</span>
-  </kbd>
-  <kbd>
-    <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/><br>
-    <span>Ansible</span>
-  </kbd>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform"/>
+  <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/>
 </p>
 
 ---
 
 ### 🐳 Containers  
-<p align="center">
-  <kbd>
-    <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/><br>
-    <span>Docker</span>
-  </kbd>
-  <kbd>
-    <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/><br>
-    <span>Kubernetes</span>
-  </kbd>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/>
 </p>
 
 ---
 
 ### 💻 Programming  
-<p align="center">
-  <kbd>
-    <img src="https://img.icons8.com/color/48/python.png" alt="Python"/><br>
-    <span>Python</span>
-  </kbd>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
 </p>
 ---
 

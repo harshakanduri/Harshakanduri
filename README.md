@@ -17,48 +17,69 @@ I am a Cloud & DevOps engineer with hands-on practice in AWS, Jenkins, Terraform
 I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 ---
+<style>
+.skill-box {
+  display: inline-block;
+  text-align: center;
+  padding: 12px;
+  margin: 10px;
+  border-radius: 12px;
+  background: #0d1117;
+  border: 1px solid #30363d;
+  transition: 0.3s;
+  width: 110px;
+}
+.skill-box:hover {
+  transform: scale(1.07);
+  box-shadow: 0 0 10px #58a6ff;
+}
+</style>
 
-# 💻 Tech Stack:
+## 🛠️ Tech Stack (Interactive)
 
-### 🚀 Cloud  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
-</p>
+<div align="center">
 
----
+<div class="skill-box">
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png"><br>
+  <span>AWS</span>
+</div>
 
-### ⚙️ DevOps Tools  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
-  <img src="https://img.icons8.com/fluency/48/console.png" alt="Terminal"/>
-</p>
+<div class="skill-box">
+  <img src="https://img.icons8.com/color/48/jenkins.png"><br>
+  <span>Jenkins</span>
+</div>
 
----
+<div class="skill-box">
+  <img src="https://img.icons8.com/color/48/terraform.png"><br>
+  <span>Terraform</span>
+</div>
 
-### 🏗 Infrastructure as Code  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform"/>
-  <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/>
-</p>
+<div class="skill-box">
+  <img src="https://img.icons8.com/color/48/ansible.png"><br>
+  <span>Ansible</span>
+</div>
 
----
+<div class="skill-box">
+  <img src="https://img.icons8.com/color/48/docker.png"><br>
+  <span>Docker</span>
+</div>
 
-### 🐳 Containers  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/>
-</p>
+<div class="skill-box">
+  <img src="https://img.icons8.com/color/48/kubernetes.png"><br>
+  <span>Kubernetes</span>
+</div>
 
----
+<div class="skill-box">
+  <img src="https://img.icons8.com/color/48/linux.png"><br>
+  <span>Linux</span>
+</div>
 
-### 💻 Programming  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-</p>
+<div class="skill-box">
+  <img src="https://img.icons8.com/fluency/48/console.png"><br>
+  <span>Bash / Shell</span>
+</div>
 
+</div>
 
 ---
 

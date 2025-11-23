@@ -17,70 +17,85 @@ I am a Cloud & DevOps engineer with hands-on practice in AWS, Jenkins, Terraform
 I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 ---
-<style>
-.skill-box {
-  display: inline-block;
-  text-align: center;
-  padding: 12px;
-  margin: 10px;
-  border-radius: 12px;
-  background: #0d1117;
-  border: 1px solid #30363d;
-  transition: 0.3s;
-  width: 110px;
-}
-.skill-box:hover {
-  transform: scale(1.07);
-  box-shadow: 0 0 10px #58a6ff;
-}
-</style>
+## 🛠️ Tech Stack :
 
-## 🛠️ Tech Stack (Interactive)
+### 🚀 Cloud  
+<p align="center">
+  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block; transition:0.3s;">
+    <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/><br>
+    <span>AWS</span>
+  </kbd>
+</p>
 
-<div align="center">
+---
 
-<div class="skill-box">
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png"><br>
-  <span>AWS</span>
-</div>
+### ⚙️ DevOps Tools  
+<p align="center">
+  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block; transition:0.3s;">
+    <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/><br>
+    <span>Jenkins</span>
+  </kbd>
 
-<div class="skill-box">
-  <img src="https://img.icons8.com/color/48/jenkins.png"><br>
-  <span>Jenkins</span>
-</div>
+  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+    <img src="https://img.icons8.com/color/48/git.png" alt="Git"/><br>
+    <span>Git</span>
+  </kbd>
 
-<div class="skill-box">
-  <img src="https://img.icons8.com/color/48/terraform.png"><br>
-  <span>Terraform</span>
-</div>
+  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+    <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/><br>
+    <span>GitHub</span>
+  </kbd>
 
-<div class="skill-box">
-  <img src="https://img.icons8.com/color/48/ansible.png"><br>
-  <span>Ansible</span>
-</div>
+  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+    <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/><br>
+    <span>Linux</span>
+  </kbd>
 
-<div class="skill-box">
-  <img src="https://img.icons8.com/color/48/docker.png"><br>
-  <span>Docker</span>
-</div>
+  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+    <img src="https://img.icons8.com/fluency/48/console.png" alt="Terminal"/><br>
+    <span>Bash / Shell</span>
+  </kbd>
+</p>
 
-<div class="skill-box">
-  <img src="https://img.icons8.com/color/48/kubernetes.png"><br>
-  <span>Kubernetes</span>
-</div>
+---
 
-<div class="skill-box">
-  <img src="https://img.icons8.com/color/48/linux.png"><br>
-  <span>Linux</span>
-</div>
+### 🏗 Infrastructure as Code  
+<p align="center">
+  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+    <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform"/><br>
+    <span>Terraform</span>
+  </kbd>
 
-<div class="skill-box">
-  <img src="https://img.icons8.com/fluency/48/console.png"><br>
-  <span>Bash / Shell</span>
-</div>
+  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+    <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/><br>
+    <span>Ansible</span>
+  </kbd>
+</p>
 
-</div>
+---
 
+### 🐳 Containers  
+<p align="center">
+  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+    <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/><br>
+    <span>Docker</span>
+  </kbd>
+
+  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+    <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/><br>
+    <span>Kubernetes</span>
+  </kbd>
+</p>
+
+---
+
+### 💻 Programming  
+<p align="center">
+  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+    <img src="https://img.icons8.com/color/48/python.png" alt="Python"/><br>
+    <span>Python</span>
+  </kbd>
+</p>
 ---
 
 # 📂 Featured Projects

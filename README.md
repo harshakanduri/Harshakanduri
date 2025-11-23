@@ -17,11 +17,12 @@ I am a Cloud & DevOps engineer with hands-on practice in AWS, Jenkins, Terraform
 I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 ---
-## 🛠️ Tech Stack :
+
+## 💻 Tech Stack :
 
 ### 🚀 Cloud  
 <p align="center">
-  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block; transition:0.3s;">
+  <kbd>
     <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/><br>
     <span>AWS</span>
   </kbd>
@@ -31,27 +32,23 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 ### ⚙️ DevOps Tools  
 <p align="center">
-  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block; transition:0.3s;">
+  <kbd>
     <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/><br>
     <span>Jenkins</span>
   </kbd>
-
-  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+  <kbd>
     <img src="https://img.icons8.com/color/48/git.png" alt="Git"/><br>
     <span>Git</span>
   </kbd>
-
-  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+  <kbd>
     <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/><br>
     <span>GitHub</span>
   </kbd>
-
-  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+  <kbd>
     <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/><br>
     <span>Linux</span>
   </kbd>
-
-  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+  <kbd>
     <img src="https://img.icons8.com/fluency/48/console.png" alt="Terminal"/><br>
     <span>Bash / Shell</span>
   </kbd>
@@ -61,12 +58,11 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 ### 🏗 Infrastructure as Code  
 <p align="center">
-  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+  <kbd>
     <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform"/><br>
     <span>Terraform</span>
   </kbd>
-
-  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+  <kbd>
     <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/><br>
     <span>Ansible</span>
   </kbd>
@@ -76,12 +72,11 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 ### 🐳 Containers  
 <p align="center">
-  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+  <kbd>
     <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/><br>
     <span>Docker</span>
   </kbd>
-
-  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+  <kbd>
     <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/><br>
     <span>Kubernetes</span>
   </kbd>
@@ -91,7 +86,7 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 ### 💻 Programming  
 <p align="center">
-  <kbd style="padding:12px; border-radius:10px; box-shadow:0 0 10px #58a6ff; margin:8px; display:inline-block;">
+  <kbd>
     <img src="https://img.icons8.com/color/48/python.png" alt="Python"/><br>
     <span>Python</span>
   </kbd>

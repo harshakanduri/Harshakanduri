@@ -20,8 +20,6 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 ## 💻 Tech Stack :
 
----
-
 ### 🚀 Cloud  
 <p align="left">
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
@@ -96,9 +94,9 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 ---
 
-# 🔥 GitHub Streak Stats  
+## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshakanduri&theme=tokyonight" height="180px"/>
+  <img src="https://streak-stats.demolab.com/?user=harshakanduri&theme=tokyonight" height="180px" />
 </p>
 
 ---

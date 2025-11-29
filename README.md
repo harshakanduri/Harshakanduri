@@ -85,23 +85,12 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 🔗 Repo: https://github.com/harshakanduri/My-first-AWS-serverless-E-commerce-web-Application
 ---
 
-# 📊 GitHub Stats  
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=harshakanduri&theme=tokyonight" height="180px" />
+</p>
 
-![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshakanduri&show_icons=true&theme=tokyonight)
 
-
-<div align="center">
-
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=harshakanduri&show_icons=true&theme=tokyonight"/>
-
-### 🔥 Streak
-<img src="https://streak-stats.demolab.com/?user=harshakanduri&theme=tokyonight"/>
-
-### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=harshakanduri&theme=tokyonight&row=1&column=7"/>
-
-</div>
 
 
 

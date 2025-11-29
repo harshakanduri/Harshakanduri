@@ -87,12 +87,9 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 
 # 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshakanduri&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshakanduri&layout=compact&theme=tokyonight" height="160px"/>
-</p>
+![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshakanduri&show_icons=true&theme=tokyonight)
 
----
+
 
 ## 🔥 GitHub Streak Stats
 <p align="center">

@@ -90,23 +90,26 @@ I enjoy learning-by-building and documenting all my DevOps work on GitHub.
 # 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshakanduri&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshakanduri&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshakanduri&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshakanduri&layout=compact&theme=tokyonight&cache_seconds=1800" height="160"/>
 </p>
+
 
 ---
 
 # 🔥 GitHub Streak Stats  
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshakanduri&theme=tokyonight" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=harshakanduri&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
 # 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshakanduri&theme=onedark&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshakanduri&theme=onedark&no-frame=true&margin-w=10"/>
 </p>
+
 
 ---
 
